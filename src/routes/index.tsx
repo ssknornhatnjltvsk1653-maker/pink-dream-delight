@@ -63,7 +63,7 @@ function Intro({ onDone }: { onDone: () => void }) {
       ))}
       <p className="fade-late font-hand text-3xl text-muted-foreground" style={{ animationDelay: ".2s" }}>psst</p>
       <div className="mx-auto mt-2 inline-block">
-        <h1 className="type-line font-display text-3xl italic md:text-5xl">something came for you</h1>
+        <h1 className="type-line pb-3 font-display text-3xl italic md:text-5xl">something came for you</h1>
       </div>
       <button onClick={open} aria-label="Open the letter" className="relative mt-8 w-64 md:w-80">
         <div className="env-enter"><div className={opening ? "env-open" : "env-idle"}><Img src={envelope} eager alt="A pink love letter with a heart seal" /></div></div>
