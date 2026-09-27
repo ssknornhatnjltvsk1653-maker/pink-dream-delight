@@ -195,11 +195,11 @@ function Story() {
             <Kicker>a lil honesty</Kicker>
             <div className="letter-card reveal relative p-7 text-lg leading-9">
               <span className="tape -top-3 left-8 -rotate-6" />
-              i'm sorry for letting my ego get in the way jab actually matter u aur hum karte the  kabhi kabhi main apni feelings mein itna ulajh jaata hoon ki cheezein unnecessarily harder bana deta hoon  and ngl mujhe hate hota hai ki maine ek stupid si fight ko us insaan se bhi bigger bana diya jise main love karta hoon
+              i'm sorry for letting my ego come in between us jab asli mein matter sirf tum aur hum karte the  kabhi kabhi main us moment mein apni feelings mein itna kho jaata hoon ki cheezein bina wajah aur complicated kar deta hoon  and ngl mujhe khud se bura lagta hai ki maine ek stupid si fight ko us insaan se bhi zyada important bana diya jise main pyaar karta hoon
             </div>
             <div className="letter-card reveal relative p-7 text-lg leading-9">
               <span className="tape -top-3 right-8 rotate-6" />
-              u deserve nahi karti thi ki tujhe lage main apne ego ko tumse upar choose kar raha hoon  i'm genuinely sorry for that  main apne liye excuses nahi bana raha  bas chahta hoon ki tujhe pata ho mujhe samajh aa gaya hai main kahan galat tha and i genuinely care about making things better  sirf sorry bolke move on karne ke liye nahi
+              tumhe kabhi aisa feel nahi karna chahiye tha ki main apne ego ko tumse upar rakh raha hoon  i'm genuinely sorry for that  main apne liye koi excuse nahi bana raha  bas itna chahta hoon ki tumhe pata ho mujhe samajh aa gaya hai main kahan galat tha  aur main cheezein genuinely better karna chahta hoon  sirf sorry bolke aage badh jaane ke liye nahi
             </div>
           </div>
         </section>
@@ -224,9 +224,9 @@ function Story() {
             </div>
           </div>
           <div className="letter-card reveal relative mx-auto mt-16 max-w-2xl space-y-5 p-8 text-left text-lg leading-9">
-            <p>kabhi kabhi mujhe lagta hai main properly explain hi nahi kar pata ki tum mere liye kitni important ho</p>
-            <p>sirf big moments hi reason nahi hain ki mujhe tumhe apni life mein rakhna itna pasand hai  lil things bhi matter karte hain  jis tarah tum ek normal convo ko special bana deti ho  jis tarah tumhari presence poore din ka mood change kar sakti hai  aur somehow jab sab kuch messy lagta hai tab bhi mera ek part bas tumhare paas rehna aur sab theek karna chahta hai</p>
-            <p>main nahi chahta ki tumhare liye meri love sirf cute words tak rahe  main chahta hoon ki woh mere listen karne ke tareeke mein dikhe  tumhe samajhne mein dikhe  jab main galat hoon tab properly apologise karne mein dikhe  aur jab hum ek dusre se annoyed hon tab bhi kindness choose karne mein dikhe</p>
+            <p>kabhi kabhi mujhe lagta hai main tumhe properly bata hi nahi pata ki tum mere liye kitni important ho</p>
+            <p>sirf bade moments ki wajah se nahi hai ki mujhe tumhara meri life mein hona itna pasand hai  chhoti chhoti cheezein bhi matter karti hain  jaise tum ek normal si convo ko bhi special bana deti ho  tumhari presence poore din ka mood badal deti hai  aur somehow jab sab kuch messy lagta hai tab bhi mera dil bas tumhare paas rehna chahta hai aur sab theek karna chahta hai</p>
+            <p>main nahi chahta ki tumhare liye meri love sirf cute words mein reh jaaye  main chahta hoon ki woh is baat mein dikhe ki main tumhari baat kaise sunta hoon  tumhe kaise samajhta hoon  galat hone par kaise sorry bolta hoon  aur jab hum ek dusre se annoyed hote hain tab bhi kindness choose karta hoon</p>
           </div>
         </section>
 
@@ -259,12 +259,12 @@ function Story() {
           <Img src={moon} className="reveal float-slow mx-auto w-64 md:w-80" alt="Doodle couple sitting on the moon" />
           <div className="space-y-4">
             <p className="reveal font-hand text-3xl text-muted-foreground">and honestly</p>
-            <p className="reveal font-display text-2xl md:text-3xl">main nahi chahta ki humare beech ki yeh chhoti si baat us pyaar se badi ban jaaye jo humare beech hai</p>
+            <p className="reveal font-display text-2xl md:text-3xl">main nahi chahta ki humare beech ki yeh chhoti si baat us pyaar se badi ho jaaye jo is sab ke peeche hai</p>
             <p className="reveal font-display text-2xl md:text-3xl">i care about you way too much for that</p>
             <p className="reveal font-display text-4xl italic text-primary md:text-5xl">i'm sorry baby</p>
           </div>
           <div className="letter-card reveal mt-12 p-8 text-left text-lg leading-9">
-            mujhe pata hai sorry bolne se bad moment magically erase nahi hota  but main phir bhi properly sorry kehna chahta hoon bc tum mere liye matter karti ho aur mujhe kabhi apne pride ko tumhare liye care se louder nahi hone dena chahiye  jab hum agree na karein tab tumhe samajhne aur un moments ko handle karne mein main better hona chahta hoon  bc kisi se love karna sirf easy days ke baare mein nahi hota  difficult days mein ek dusre ke saath thoda softer hona seekhna bhi usi ka part hai
+            mujhe pata hai ki sorry bolne se koi bad moment magically erase nahi ho jaata  but main phir bhi properly sorry bolna chahta hoon bc tum mere liye matter karti ho  aur mujhe kabhi apne pride ko tumhare liye jo care hai usse zyada loud nahi hone dena chahiye  main tumhe samajhne mein aur un moments ko handle karne mein better hona chahta hoon jab hum agree nahi karte  bc kisi se pyaar karna sirf easy days ke baare mein nahi hota  difficult days mein ek dusre ke saath softer hona seekhna bhi usi ka part hai
             <p className="mt-4 font-hand text-3xl text-primary">i mean that</p>
           </div>
         </section>
@@ -290,7 +290,7 @@ function Story() {
         <section className="mx-auto max-w-2xl px-6 py-24">
           <div className="letter-card reveal relative p-8 text-lg leading-9">
             <span className="tape -top-3 left-10 -rotate-3" />
-            agar is poore moment se main ek cheez seekh kar le jaaun, toh woh yeh hogi ki main kabhi apne ego ko itna big nahi hone dunga ki main bhool jaun tum mere liye kitni precious ho  main expect nahi karta ki humare beech sab kuch hamesha perfect rahega and i don't think love ka matlab kabhi annoyed na hona ya difficult moments na aana hai  bas main chahta hoon ki hum thodi aur patience aur thodi aur softness ke saath hamesha ek dusre ko samajhne ki taraf wapas aa sakein  aur meri side se main is cheez mein better karna chahta hoon bc tum mujhse yahi deserve karti ho
+            agar is poore moment se mujhe ek cheez yaad rakhni ho toh woh yeh hai ki main kabhi apne ego ki wajah se yeh na bhoolun ki tum mere liye kitni precious ho  main yeh expect nahi karta ki humare beech sab kuch hamesha perfect rahega  aur mere liye love ka matlab yeh nahi hai ki hum kabhi annoyed na hon ya humare beech difficult moments na aayein  main bas chahta hoon ki hum thodi aur patience aur thodi aur softness ke saath hamesha ek dusre ko samajhne ki taraf wapas aa sakein  aur meri taraf se main ismein better karna chahta hoon bc tum mujhse yahi deserve karti ho
           </div>
           <div className="mt-12 space-y-3 text-center">
             <p className="reveal font-hand text-3xl text-muted-foreground">so yeah...</p>
